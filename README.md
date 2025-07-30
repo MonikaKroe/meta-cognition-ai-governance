@@ -64,5 +64,6 @@ The code examples are **not intended for deployment** and should undergo rigorou
 ---
 
 ### 📬 Contact  
-Monika Kröninger  
-[LinkedIn](https://www.linkedin.com) | [ResearchGate (pending)] | [Email contact if desired]  
+Dr. Monika Kröninger  Email: monika.kroeninger@hotmail.it  
+[LinkedIn](https://www.linkedin.com/in/deinprofil)  
+
